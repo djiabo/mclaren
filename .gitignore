@@ -1,0 +1,55 @@
+# Heuristique pour McLaren Racing
+
+# Page 1 : Structure et Taille de McLaren Racing
+structure_mclaren = {
+    "CEO": "Zach Brown",
+    "Statut Juridique": "Société à responsabilité limitée (Ltd)",
+    "Structure Managériale": "Verticale",
+    "Directeur de l'équipe": "Andreas Seidl"
+}
+
+# Page 2 : Organisation Managériale et Processus Opérationnels
+organisation_mclaren = {
+    "Collaboration Interdépartementale": True,
+    "Ingénieurs d'Élite": ["Peter Prodromou"],
+    "Chef de Conception": "James Key",
+    "Innovations Aérodynamiques": True
+}
+
+# Page 3 : Problèmes Managériaux
+problemes_mclaren = {
+    "Difficultés de Performance": "Saison 2021",
+    "Impact de la Pandémie": "Logistique et Déplacements"
+}
+
+# Page 4 : Réponses aux Problèmes Managériaux
+reponses_mclaren = {
+    "Approche Proactive": "Réunions d'évaluation des performances, Analyse des données télémétriques, Simulations en soufflerie",
+    "Séances de Coaching Individuelles": True
+}
+
+# Page 5 : Changements Possibles/Impossibles/Envisageables/Inenvisageables
+changements_mclaren = {
+    "Expansion": "Exploration de la Formule E",
+    "Retrait de la Formule 1": "Inenvisageable"
+}
+
+# Page 6 : Conclusion et Analyse Critique
+conclusion_mclaren = {
+    "Vigilance Continuelle": "Analyse critique et continue de la stratégie managériale",
+    "Succès Continu": "Perspicacité stratégique et intégrité opérationnelle"
+}
+
+# Affichage des données
+print("Page 1 : Structure et Taille de McLaren Racing")
+print(structure_mclaren)
+print("\nPage 2 : Organisation Managériale et Processus Opérationnels")
+print(organisation_mclaren)
+print("\nPage 3 : Problèmes Managériaux")
+print(problemes_mclaren)
+print("\nPage 4 : Réponses aux Problèmes Managériaux")
+print(reponses_mclaren)
+print("\nPage 5 : Changements Possibles/Impossibles/Envisageables/Inenvisageables")
+print(changements_mclaren)
+print("\nPage 6 : Conclusion et Analyse Critique")
+print(conclusion_mclaren)
